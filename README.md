@@ -1,13 +1,19 @@
 # Ronin
 
-Внутренние кабинеты и прикладные сервисы. React, Python.
+Внутренние сервисы, Telegram-боты и прикладные системы.
+
+Python · C++ · TypeScript · JavaScript · Lua · SQL
 
 ## [DeKs](https://github.com/Ronin-proger/DeKs)
 
-Рабочее место команды: задачи, файлы, календарь, база знаний и ответы по своим заметкам.
+Рабочее место команды. База знаний, граф связей и ответы по своим заметкам.
 
-<img src="https://github.com/Ronin-proger/DeKs/raw/main/docs/cabinet.png" alt="Кабинет DeKs" width="720">
+<img src="https://github.com/Ronin-proger/DeKs/raw/main/docs/graph.png" alt="Граф знаний DeKs" width="780">
 
 ## [StroySync](https://github.com/Ronin-proger/HACATON)
 
-Снимок стройплощадки связывается с этапом графика: техника, правило, предупреждение и трёхмерная модель участка.
+Снимок стройплощадки, найденная техника и сверка с этапом графика.
+
+<img src="https://github.com/Ronin-proger/HACATON/raw/main/docs/demo_roads.png" alt="Мониторинг StroySync" width="780">
+
+Telegram-боты и Mini App: диалоги, заявки, кабинет внутри Telegram.
