@@ -12,6 +12,6 @@ Python · C++ · TypeScript · JavaScript · Lua · SQL
 
 Снимок стройплощадки, найденная техника и сверка с этапом графика.
 
-![StroySync — цифровой двойник площадки](assets/stroysync.png)
+![StroySync — карта стройплощадки](assets/stroysync.png)
 
 Telegram-боты и Mini App: диалоги, заявки, кабинет внутри Telegram.
