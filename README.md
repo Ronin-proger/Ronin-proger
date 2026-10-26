@@ -15,3 +15,6 @@ Python · C++ · TypeScript · JavaScript · Lua · SQL
 ![StroySync — карта стройплощадки](assets/stroysync.png)
 
 Telegram-боты и Mini App: диалоги, заявки, кабинет внутри Telegram.
+
+
+## [Трекинг тренировок](https://github.com/Ronin-proger/health-app)
