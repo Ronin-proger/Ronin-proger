@@ -18,3 +18,5 @@ Telegram-боты и Mini App: диалоги, заявки, кабинет вн
 
 
 ## [Трекинг тренировок](https://github.com/Ronin-proger/health-app)
+
+![Демонстрация части Mini App](docs/screens/slide-07.png)
