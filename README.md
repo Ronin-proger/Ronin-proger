@@ -1,21 +1,7 @@
 # Ronin
+Internal tools and applied systems.
+Python · TypeScript · React · FastAPI
 
-Внутренние сервисы, Telegram-боты и прикладные системы.
-
-Python · C++ · TypeScript · JavaScript · Lua · SQL
-
-## [DeKs](https://github.com/Ronin-proger/DeKs)
-
-Рабочее место команды. База знаний, граф связей и ответы по своим заметкам.
-
-## [StroySync](https://github.com/Ronin-proger/HACATON)
-
-Снимок стройплощадки, найденная техника и сверка с этапом графика.
-
-![StroySync — карта стройплощадки](assets/stroysync.png)
-
-## [Трекинг тренировок](https://github.com/Ronin-proger/health-app)
-
-Telegram-боты и Mini App: диалоги, заявки, кабинет внутри Telegram.
-
-![Демонстрация части Mini App](assets/training.png)
+- [deks](https://github.com/Ronin-proger/DeKs) — vault sync, RAG over notes, graph, agent reports
+- [stroysync](https://github.com/Ronin-proger/stroysync) — site photos → equipment detection → WBS status
+- [health-app](https://github.com/Ronin-proger/health-app) — workouts/habits UI; data in browser (localStorage / Telegram WebApp)
